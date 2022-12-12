@@ -1,0 +1,19 @@
+fastfood Portsmouth 10-15 McDonalds https://www.mcdonalds.com/gb/en-gb/menu.html
+fastfood Waterloovile 20-25 KFC https://www.kfc.co.uk/menu
+fastfood Havant 30-35 Glamburger https://www.thecheesecakefactory.com/menu/glamburgers
+fastfood Purbrook 40-100 Mr_Beast_Burger https://mrbeastburger.uk/
+
+chinese Havant 30-35 Aroma_Oriental https://aromaoriental.co.uk/
+chinese Portsmouth 10-15 Golden_Town https://goldentown.co.uk/
+chinese Waterloovile 20-25 Cheerful_Dragon https://www.youtube.com/watch?v=x5nEb-7UKZI
+chinese Purbrook 40-100 Chinese_Food_Center https://chinese-food-centre.business.site/
+
+indian Portsmouth 20-25 The_Golden_Lion https://www.goldenlionfareham.co.uk/food-and-drink
+indian Waterloovile 10-15 Darbar_Restaurant https://www.royaldarbar.co.uk/
+indian Havant 30-35 Spice_Cottage https://www.spicecottagewestbourne.co.uk/menu
+indian Purbrook 40-100 Red_Chili http://www.redchillihavant.com/
+
+pizza Havant 20-25 Pizza_Hut https://www.pizzahut.co.uk/menu
+pizza Portsmouth 10-15 Dominos https://www.dominos.co.uk/
+pizza Purbrook 30-35 Papa_Johns https://www2.papajohns.co.uk/?utm_source=papajohns.com&utm_medium=referral
+pizza Waterloovile 40-100 Pizza_Express https://www.pizzaexpress.com/restaurant-menu
